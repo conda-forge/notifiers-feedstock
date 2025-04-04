@@ -1,5 +1,6 @@
 conda_forge_output_validation: true
 bot:
+  inspection: hint-all
   automerge: true
 github:
   branch_name: main
