@@ -191,6 +191,3 @@ Feedstock Maintainers
 * [@conda-forge/rpaframework-core](https://github.com/orgs/conda-forge/teams/rpaframework-core/)
 * [@thewchan](https://github.com/thewchan/)
 
-
-<!-- dummy commit to enable rerendering -->
-
